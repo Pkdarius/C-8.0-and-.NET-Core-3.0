@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5+L+0moyra1P227miLKT/hnFgDzFxNhmDJFjrjtQ6QogG4zBOMfARdEC9Rbt2lkcAM8fLQGYpwRfCpaYbq7kg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pkdar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

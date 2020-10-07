@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin\\Desktop\\Cs\\Chapter04\\Dumping\\Dumping.csproj": {}
+    "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter04\\Dumping\\Dumping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin\\Desktop\\Cs\\Chapter04\\Dumping\\Dumping.csproj": {
+    "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter04\\Dumping\\Dumping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin\\Desktop\\Cs\\Chapter04\\Dumping\\Dumping.csproj",
+        "projectUniqueName": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter04\\Dumping\\Dumping.csproj",
         "projectName": "Dumping",
-        "projectPath": "C:\\Users\\Martin\\Desktop\\Cs\\Chapter04\\Dumping\\Dumping.csproj",
-        "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin\\Desktop\\Cs\\Chapter04\\Dumping\\obj\\",
+        "projectPath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter04\\Dumping\\Dumping.csproj",
+        "packagesPath": "C:\\Users\\pkdar\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter04\\Dumping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pkdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "SharpPad": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

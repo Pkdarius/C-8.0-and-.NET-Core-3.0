@@ -1,0 +1,9 @@
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.deps.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.pdb

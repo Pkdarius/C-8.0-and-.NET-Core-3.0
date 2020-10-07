@@ -1,0 +1,16 @@
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.exe
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.deps.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\bin\Debug\netcoreapp3.1\SharpPad.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csproj.CopyComplete
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.genruntimeconfig.cache

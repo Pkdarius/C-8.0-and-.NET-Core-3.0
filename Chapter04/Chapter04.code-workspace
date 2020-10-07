@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "Dumping"
+		},
+		{
+			"path": "WritingFunctions"
+		},
+		{
+			"path": "Instrumenting"
+		},
+		{
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "CalculatorLibUnitTests"
+		}
+	],
+	"settings": {
+		"http.proxy": "http://10.61.11.42:3128"
+	}
+}
