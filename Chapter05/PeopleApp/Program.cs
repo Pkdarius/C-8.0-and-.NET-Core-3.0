@@ -74,6 +74,17 @@ namespace PeopleApp
                 arg0: gunny.Name,
                 arg1: gunny.HomePlanet,
                 arg2: gunny.Instantiated);
+            bob.WriteToConsole();
+            WriteLine(bob.GetOrigin());
+            WriteLine(bob.SayHello());
+            WriteLine(bob.SayHello("Emily"));
+
+            WriteLine(bob.OptionalParameters());
+            WriteLine(bob.OptionalParameters("Jump!", 98.5));
+            WriteLine(bob.OptionalParameters(
+                number: 52.7, command: "Hide!"
+            ));
+            WriteLine(bob.OptionalParameters("Poke!", active: false));
         }
     }
 }
