@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "SwitchExpressions"
+		},
+		{
+			"path": "IterationStatements"
+		},
+		{
+			"path": "CastingConverting"
+		},
+		{
+			"path": "CheckingForOverflow"
+		},
+		{
+			"path": "Debugging"
+		}
+	],
+	"settings": {}
+}

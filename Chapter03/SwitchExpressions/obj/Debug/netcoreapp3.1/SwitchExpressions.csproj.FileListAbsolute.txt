@@ -1,0 +1,13 @@
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\bin\Debug\netcoreapp3.1\SwitchExpressions.exe
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\bin\Debug\netcoreapp3.1\SwitchExpressions.deps.json
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\bin\Debug\netcoreapp3.1\SwitchExpressions.runtimeconfig.json
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\bin\Debug\netcoreapp3.1\SwitchExpressions.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\bin\Debug\netcoreapp3.1\SwitchExpressions.dll
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\bin\Debug\netcoreapp3.1\SwitchExpressions.pdb
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\obj\Debug\netcoreapp3.1\SwitchExpressions.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\obj\Debug\netcoreapp3.1\SwitchExpressions.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\obj\Debug\netcoreapp3.1\SwitchExpressions.AssemblyInfo.cs
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\obj\Debug\netcoreapp3.1\SwitchExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\obj\Debug\netcoreapp3.1\SwitchExpressions.dll
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\obj\Debug\netcoreapp3.1\SwitchExpressions.pdb
+C:\Users\Martin\Desktop\Cs\Chapter03\SwitchExpressions\obj\Debug\netcoreapp3.1\SwitchExpressions.genruntimeconfig.cache
