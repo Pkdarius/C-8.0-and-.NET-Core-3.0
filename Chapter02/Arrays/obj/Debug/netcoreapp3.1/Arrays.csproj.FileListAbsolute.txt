@@ -1,0 +1,13 @@
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter02\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

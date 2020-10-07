@@ -1,0 +1,13 @@
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache

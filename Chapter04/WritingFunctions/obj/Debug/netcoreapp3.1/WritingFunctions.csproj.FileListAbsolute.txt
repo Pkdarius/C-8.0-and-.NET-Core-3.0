@@ -1,0 +1,13 @@
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.exe
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.deps.json
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.json
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.dll
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.dll
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache

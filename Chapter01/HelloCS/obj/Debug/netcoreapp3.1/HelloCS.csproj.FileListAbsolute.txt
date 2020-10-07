@@ -1,0 +1,13 @@
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
+D:\Users\pkdar\Desktop\Cs\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.genruntimeconfig.cache
