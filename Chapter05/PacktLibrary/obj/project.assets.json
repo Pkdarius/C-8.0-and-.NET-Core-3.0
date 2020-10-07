@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martin\\Desktop\\Cs\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
       "projectName": "PacktLibrary",
-      "projectPath": "C:\\Users\\Martin\\Desktop\\Cs\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+      "projectPath": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
       "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martin\\Desktop\\Cs\\Chapter05\\PacktLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter05\\PacktLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",

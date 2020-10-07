@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "PacktLibrary"
+		},
+		{
+			"path": "PeopleApp"
 		}
 	],
 	"settings": {}
