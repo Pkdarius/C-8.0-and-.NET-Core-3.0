@@ -1,0 +1,9 @@
+C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter06\PacktLibrary\bin\Debug\netcoreapp3.1\PacktLibrary.deps.json
+C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter06\PacktLibrary\bin\Debug\netcoreapp3.1\PacktLibrary.dll
+C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter06\PacktLibrary\bin\Debug\netcoreapp3.1\PacktLibrary.pdb
+C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter06\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter06\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter06\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter06\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter06\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.dll
+C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter06\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.pdb
