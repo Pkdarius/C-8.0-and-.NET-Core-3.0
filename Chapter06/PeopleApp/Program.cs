@@ -103,6 +103,17 @@ namespace PeopleApp
             john.EmployeeCode = "JJ001";
             john.HireDate = new DateTime(2014, 11, 23);
             WriteLine($"{john.Name} was hired on {john.HireDate:dd / MM / yy}");
+
+            string email1 = "pamela@test.com";
+            string email2 = "ian&test.com";
+            WriteLine(
+            "{0} is a valid e-mail address: {1}",
+            arg0: email1,
+            arg1: email1.IsValidEmail());
+            WriteLine(
+            "{0} is a valid e-mail address: {1}",
+            arg0: email2,
+            arg1: email2.IsValidEmail());
         }
         delegate int DelegateWithMatchingSignature(string s);
 
