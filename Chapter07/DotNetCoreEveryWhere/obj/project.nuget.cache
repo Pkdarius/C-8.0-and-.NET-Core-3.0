@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "SjGPDnn51yijqQms5eZ4i8N5X30gJUB8ifhRSEada7TqhZ7wDch6E7ktlu0Osnvia/QU83kg+6iQGUwehsr5LQ==",
+  "dgSpecHash": "sTq3BE4LGEHvRaaoD4NzgdH52N79D50ZySDc94pXQ5iS381ekRDRsrutRyAtJGtrdDvANcXM921RP8W9C8UT+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\DotNetCoreEveryWhere\\DotNetCoreEveryWhere.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\DotNetCoreEveryWhere\\DotNetCoreEveryWhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.8\\microsoft.netcore.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\3.1.8\\microsoft.netcore.app.runtime.osx-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.8\\microsoft.netcore.app.runtime.linux-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.osx-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.8\\microsoft.netcore.app.host.osx-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\pkdar\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.8\\microsoft.netcore.app.host.linux-x64.3.1.8.nupkg.sha512"
+  ],
   "logs": []
 }

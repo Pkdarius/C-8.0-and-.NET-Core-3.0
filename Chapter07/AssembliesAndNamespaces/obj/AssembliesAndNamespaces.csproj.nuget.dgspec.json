@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj": {}
+    "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj": {
+    "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+        "projectUniqueName": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
         "projectName": "AssembliesAndNamespaces",
-        "projectPath": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
-        "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\obj\\",
+        "projectPath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+        "packagesPath": "C:\\Users\\pkdar\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter07\\AssembliesAndNamespaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pkdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "newtonsoft.json": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
