@@ -1,0 +1,13 @@
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.exe
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.deps.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.runtimeconfig.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.genruntimeconfig.cache
