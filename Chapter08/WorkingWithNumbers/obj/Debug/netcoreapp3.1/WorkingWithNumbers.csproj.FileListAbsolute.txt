@@ -1,0 +1,13 @@
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.exe
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.deps.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.runtimeconfig.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\bin\Debug\netcoreapp3.1\WorkingWithNumbers.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithNumbers\obj\Debug\netcoreapp3.1\WorkingWithNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.exe
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.deps.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.runtimeconfig.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.genruntimeconfig.cache
