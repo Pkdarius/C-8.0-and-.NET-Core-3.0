@@ -8,6 +8,21 @@
 		},
 		{
 			"path": "WorkingWithRegularExpressions"
+		},
+		{
+			"path": "WorkingWithLists"
+		},
+		{
+			"path": "WorkingWithDictionaries"
+		},
+		{
+			"path": "WorkingWithIndexesAndRanges"
+		},
+		{
+			"path": "WorkingWithNetworkResources"
+		},
+		{
+			"path": "WorkingWithReflection"
 		}
 	],
 	"settings": {}
