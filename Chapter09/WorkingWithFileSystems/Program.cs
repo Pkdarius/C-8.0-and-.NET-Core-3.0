@@ -71,5 +71,18 @@ namespace WorkingWithFileSystems
             Delete(newFolder, recursive: true);
             WriteLine($"Does it exist? {Exists(newFolder)}");
         }
+
+        static void WorkWithFiles()
+        {
+            // define a directory path to output files
+            // starting in user's folder
+            var dir = Combine(GetFolderPath(SpecialFolder.Personal),
+            "Code", "Chapter09", "OutputFiles");
+
+            CreateDirectory(dir);
+
+            // define file paths
+            string textFile = Combine(dir, "Dummy.txt");
+        }
     }
 }
