@@ -11,3 +11,16 @@ C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems
 C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.dll
 C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.pdb
 C:\Users\Martin\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.genruntimeconfig.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.exe
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.deps.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.runtimeconfig.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.runtimeconfig.dev.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.dll
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.pdb
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.csprojAssemblyReference.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.dll
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.pdb
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.genruntimeconfig.cache

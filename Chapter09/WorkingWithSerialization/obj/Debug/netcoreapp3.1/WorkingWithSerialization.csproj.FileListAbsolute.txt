@@ -1,0 +1,13 @@
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.exe
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.deps.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.runtimeconfig.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.runtimeconfig.dev.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.dll
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.pdb
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.csprojAssemblyReference.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.dll
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.pdb
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.genruntimeconfig.cache
