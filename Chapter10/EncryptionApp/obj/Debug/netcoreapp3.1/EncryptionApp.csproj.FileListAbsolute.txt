@@ -1,0 +1,16 @@
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.exe
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.deps.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.dev.json
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csprojAssemblyReference.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfoInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfo.cs
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csproj.CoreCompileInputs.cache
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csproj.CopyComplete
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.dll
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.pdb
+D:\Users\pkdar\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.genruntimeconfig.cache
