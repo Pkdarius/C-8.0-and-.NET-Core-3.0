@@ -4,7 +4,7 @@
     ".NETCoreApp,Version=v3.1": {
       "CryptographyLib/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
           "bin/placeholder/CryptographyLib.dll": {}
         },
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\EncryptionApp.csproj",
-      "projectName": "EncryptionApp",
-      "projectPath": "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\EncryptionApp.csproj",
+      "projectUniqueName": "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\HashingApp\\HashingApp.csproj",
+      "projectName": "HashingApp",
+      "projectPath": "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\HashingApp\\HashingApp.csproj",
       "packagesPath": "C:\\Users\\Trinh Duy Hai\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\obj\\",
+      "outputPath": "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\HashingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Trinh Duy Hai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {
-              "projectPath": "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj"
+            "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {
+              "projectPath": "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj"
             }
           }
         }
