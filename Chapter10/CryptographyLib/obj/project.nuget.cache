@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8WorwPCO05oNfZ6DtMiqbMgz3HpbWnEu64FFb6/TALx3ncVgFoLjrzX5MZaENf6WtVze6+jDBxqjc+Kl/kDEHA==",
+  "dgSpecHash": "Av9vPmHDhQOLVyqA8KnjGpMRZY9TGIYoyinYn8iKLDost43TuJ+8vCdyNqLrQxFSnjK234LSaViNmnA09ePlFg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Trinh Duy Hai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Trinh Duy Hai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

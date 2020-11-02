@@ -1,0 +1,13 @@
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.exe
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.deps.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.runtimeconfig.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.runtimeconfig.dev.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.dll
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\bin\Debug\netcoreapp3.1\WorkingWithStreams.pdb
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.csprojAssemblyReference.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.dll
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.pdb
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter09\WorkingWithStreams\obj\Debug\netcoreapp3.1\WorkingWithStreams.genruntimeconfig.cache

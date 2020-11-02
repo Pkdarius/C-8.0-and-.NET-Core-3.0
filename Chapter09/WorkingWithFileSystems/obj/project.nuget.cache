@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2WcvLct4kXHYCFK2SsFxx46S2+HUbjR3gZQV94x9hM/OFFQj3y3RJLfjeZzIL49ihZZ6CBb2iRWc1b3+W1Rtkw==",
+  "dgSpecHash": "+jFl5tyYBx49RIzdDHnj4dnKtHpNDj+Xn763yMFCSt9isNEBi7+wfJCGpgMUee2qn6fABtkKkiv+d0TVQYyv6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+  "projectFilePath": "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

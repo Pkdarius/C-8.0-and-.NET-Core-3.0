@@ -1,0 +1,16 @@
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.exe
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.deps.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.runtimeconfig.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.runtimeconfig.dev.json
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.dll
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.pdb
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.csprojAssemblyReference.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.AssemblyInfoInputs.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.AssemblyInfo.cs
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.csproj.CopyComplete
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.dll
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.pdb
+C:\Users\Trinh Duy Hai\Desktop\C-8.0-and-.NET-Core-3.0\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.genruntimeconfig.cache

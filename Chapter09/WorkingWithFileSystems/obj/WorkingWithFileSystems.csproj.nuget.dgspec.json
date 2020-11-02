@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj": {}
+    "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj": {
+    "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+        "projectUniqueName": "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
         "projectName": "WorkingWithFileSystems",
-        "projectPath": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
-        "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\obj\\",
+        "projectPath": "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+        "packagesPath": "C:\\Users\\Trinh Duy Hai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter09\\WorkingWithFileSystems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Trinh Duy Hai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

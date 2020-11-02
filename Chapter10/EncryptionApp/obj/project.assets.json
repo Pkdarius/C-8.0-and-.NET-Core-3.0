@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\EncryptionApp.csproj",
+      "projectUniqueName": "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\EncryptionApp.csproj",
       "projectName": "EncryptionApp",
-      "projectPath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\EncryptionApp.csproj",
+      "projectPath": "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\EncryptionApp.csproj",
       "packagesPath": "C:\\Users\\Trinh Duy Hai\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\obj\\",
+      "outputPath": "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Trinh Duy Hai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {
-              "projectPath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj"
+            "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {
+              "projectPath": "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\CryptographyLib\\CryptographyLib.csproj"
             }
           }
         }

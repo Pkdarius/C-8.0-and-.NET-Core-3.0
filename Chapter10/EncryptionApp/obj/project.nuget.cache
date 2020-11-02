@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5B7MMjURm8aBn+W7ai9nmiElr7FvKMFToPivDOSfoCtyrVvJ69d5072pD+xlN23d/fPqmLZzhsQcLv9mgJt5Rw==",
+  "dgSpecHash": "2qdSPjQ6OjiP/oIVQP20aEIRhCtgsfFF323UWt3HlOKplYEeGYex5Hszu1kGkuzVZXCSBmx6ggibs4t6sfpD5w==",
   "success": true,
-  "projectFilePath": "D:\\Users\\pkdar\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\EncryptionApp.csproj",
+  "projectFilePath": "c:\\Users\\Trinh Duy Hai\\Desktop\\C-8.0-and-.NET-Core-3.0\\Chapter10\\EncryptionApp\\EncryptionApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
